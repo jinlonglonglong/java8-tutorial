@@ -4,3 +4,40 @@
 out
 /bin/
 *.class
+### mine template template
+*.class
+
+#package file
+*.war
+*.ear
+
+#maven
+target/
+HELP.md
+mvnw
+mvnw.cmd
+.mvn/
+#eclipse ignore
+.settings/
+.project
+.classpatch
+
+
+#idea
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+
+#temp file
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+*/.DS_Store
+Thnmbs.db
+*.pdb
